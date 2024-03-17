@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **arifsofyan004@gmail.com**
 
